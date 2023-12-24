@@ -1,10 +1,10 @@
 This project provides a basic framework for managing financial expenses. It includes two main classes: Expense and ExpenseDatabase. The Expense class represents individual financial transactions, while the ExpenseDatabase class manages a collection of expenses.
 
-Usage
+- Usage
 Expense Class
 The Expense class is designed to represent an individual financial expense. Each expense has the following attributes:
 
-id: A unique identifier generated using UUID4.
+-id: A unique identifier generated using UUID4.
 title: A string representing the title or description of the expense.
 amount: A float representing the monetary value of the expense.
 created_at: A datetime object indicating the creation timestamp.
