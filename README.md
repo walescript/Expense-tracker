@@ -50,7 +50,7 @@ The `ExpenseDatabase` class manages a collection of expenses using a simple list
 ## Example Usage
 
 ```python
-from expense_tracker import Expense, ExpenseDatabase
+from main import Expense, ExpenseDatabase
 
 # Create an expense
 expense1 = Expense("Christmas Clothes", 50000.0)
